@@ -4,6 +4,6 @@ Maker Media GmbH
 *** 
 
 # Waesche-fertig-Melder
-ÜDer Link zur Telegram-Bot-Library:
+Der Link zur Telegram-Bot-Library:
 (https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)
 
