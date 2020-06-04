@@ -10,6 +10,6 @@ Maker Media GmbH
 
 Die Steuerung übernimmt ein ESP8266.
 
-![Picture](https://github.com/MakeMagazinDE/Selbstbaugiessautomat/blob/master/IMG_0160_klein.JPG) 
+![Picture](https://github.com/MakeMagazinDE/Waesche-fertig-Melder/blob/master/Aufmacher.jpg) 
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der Make-Ausgabe 3/2020 ab Seite 16 zu lesen. 
