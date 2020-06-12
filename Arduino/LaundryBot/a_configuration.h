@@ -122,7 +122,7 @@ enum LaundrySignalPattern
 #define ERR_CONFIG_NOT_SAVED "Fehler: Geräteschwellenwerte konnten nicht gespeichert werden."
 #define ERR_NO_VALUES ": Sensor liefert keine korrekten Messwerte. LAB 9000 ausschalten, Verbindungen prüfen und wieder einschalten. Gemessener Wert: "
 #define ERR_UNKOWN_DEVICE "Unbekanntes Gerät. Bitte Namen prüfen."
-#define ERR_WLAN_ISSUE "Ich habe gerade einen Fehler im WLAN-Empfang festgestellt. Er war seit %s Minuten zu 100% ausfallen."
+#define ERR_WLAN_ISSUE "Ich habe gerade einen Fehler im WLAN-Empfang festgestellt. Er war seit %s Minuten komplett ausgefallen."
 
 // #define MSG_COMMAND_LIST "Befehlsübersicht:"
 #define MSG_CONFIG_MODE_FINISHED "Konfigurationsmodus beendet."
